@@ -396,3 +396,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+/build/
+dist/
+
+# Archivos de configuración
+.env
+*.config
+
+# Archivos y carpetas específicos de VS Code
+.vscode/
