@@ -8,11 +8,9 @@ Repositorio:
 Pagina de muestra:  
 Repositorio:  
 
-
-### 3. Calculadora - JavaScript" 
-Pagina de muestra:  [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)
-Repositorio:  
-
+### 3. Calculadora - JavaScript"  
+Página de muestra: [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)  
+Repositorio:
 
 ## Licencia
 Este proyecto está bajo una Licencia Propietaria. Consulta el archivo [LICENSE](./LICENSE.md) para más detalles.
