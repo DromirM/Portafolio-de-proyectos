@@ -1,7 +1,7 @@
 # Listado de proyectos
 
 ### 1. Buscador de películas usando la API de "The Movie Data Base"  
-Página de muestra: [https://buscador-de-películas-muestra.netlify.app/](https://buscador-de-películas-muestra.netlify.app/)  
+Página de muestra: [https://buscador-de-peliculas-muestra.netlify.app/](https://buscador-de-peliculas-muestra.netlify.app/)  
 Repositorio:  [https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git](https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git)
 
 ### 2. Aplicacion de clima usando la API de "OpenWeatherMap" 
