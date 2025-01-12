@@ -5,7 +5,7 @@ Página de muestra: [https://buscador-de-películas-muestra.netlify.app/](https:
 Repositorio:  
 
 ### 2. Aplicacion de clima usando la API de "OpenWeatherMap" 
-Pagina de muestra:  
+Pagina de muestra:  [https://aplicacion-de-clima-muestra.netlify.app/](https://aplicacion-de-clima-muestra.netlify.app/)   
 Repositorio:  
 
 ### 3. Calculadora - JavaScript  
