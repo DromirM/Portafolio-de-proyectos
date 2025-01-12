@@ -4,7 +4,13 @@
 Página de muestra: [https://buscador-de-películas-muestra.netlify.app/](https://buscador-de-películas-muestra.netlify.app/)  
 Repositorio:  
 
-### 2. Buscador de películas usando la API de "The Movie Data Base"  
+### 2. Titulo 
+Pagina de muestra:  
+Repositorio:  
+
+
+### 3. Calculadora - JavaScript" 
+Pagina de muestra:  [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)
 Repositorio:  
 
 
