@@ -12,5 +12,9 @@ Repositorio:
 Página de muestra: [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)  
 Repositorio:
 
+### 4. Juego de adivinanza - JavaScript"  
+Página de muestra: [https://juego-de-adivinanzas-muestra.netlify.app/](https://juego-de-adivinanzas-muestra.netlify.app/)  
+Repositorio:
+
 ## Licencia
 Este proyecto está bajo una Licencia Propietaria. Consulta el archivo [LICENSE](./LICENSE.md) para más detalles.
