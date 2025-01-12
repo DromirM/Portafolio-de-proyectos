@@ -16,5 +16,9 @@ Repositorio:
 Página de muestra: [https://juego-de-adivinanzas-muestra.netlify.app/](https://juego-de-adivinanzas-muestra.netlify.app/)  
 Repositorio:
 
+### 5. Pagina que despliega informacion acerca de lugares turisticos - JavaScript"  
+Página de muestra: [https://ventas-viajes-muestra.netlify.app/](https://ventas-viajes-muestra.netlify.app/)  
+Repositorio:
+
 ## Licencia
 Este proyecto está bajo una Licencia Propietaria. Consulta el archivo [LICENSE](./LICENSE.md) para más detalles.
