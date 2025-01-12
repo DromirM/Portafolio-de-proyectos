@@ -1,7 +1,8 @@
 # Listado de proyectos
 ### Buscador de peliculas usando la API de "The Movie Data Base"
-1. https://buscador-de-peliculas-muestra.netlify.app/
-
+Pagina de muestra: https://buscador-de-peliculas-muestra.netlify.app/
+Repositorio: 
+### Buscador de peliculas usando la API de "The Movie Data Base"
 2. 
 
 ## Licencia
