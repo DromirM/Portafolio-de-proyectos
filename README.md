@@ -1,24 +1,32 @@
 # Listado de proyectos
 
-### 1. Buscador de películas usando la API de "The Movie Data Base"  
-Página de muestra: [https://buscador-de-peliculas-muestra.netlify.app/](https://buscador-de-peliculas-muestra.netlify.app/)  
-Repositorio:  [https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git](https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git)
+### 1.	Carrito de compras utilizando React
+  •	Página de muestra: https://carrito-de-compras-react-muestra.netlify.app/
+  •	Repositorio: https://github.com/DromirM/Carrito-compras-react
+      
+### 2.	Buscador de películas + API de "The Movie Data Base" – (versión hecha con React)
+  •	Página de muestra: https://buscador-de-peliculas-react-muestra.netlify.app/
+  •	Repositorio: https://github.com/DromirM/Buscador-de-peliculas-React
 
-### 2. Aplicacion de clima usando la API de "OpenWeatherMap" 
-Pagina de muestra:  [https://aplicacion-de-clima-muestra.netlify.app/](https://aplicacion-de-clima-muestra.netlify.app/)   
-Repositorio:  [https://github.com/DromirM/Aplicacion-de-clima.git](https://github.com/DromirM/Aplicacion-de-clima.git)
+### 3. Buscador de películas usando la API de "The Movie Data Base"  
+  •	Página de muestra: [https://buscador-de-peliculas-muestra.netlify.app/](https://buscador-de-peliculas-muestra.netlify.app/)  
+  •	Repositorio:  [https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git](https://github.com/DromirM/Buscador-de-peliculas-JavaScript.git)
 
-### 3. Calculadora - JavaScript  
-Página de muestra: [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)  
-Repositorio: [https://github.com/DromirM/Calculadora-JavaScript.git](https://github.com/DromirM/Calculadora-JavaScript.git)
+### 4. Aplicacion de clima usando la API de "OpenWeatherMap" 
+  •	Pagina de muestra:  [https://aplicacion-de-clima-muestra.netlify.app/](https://aplicacion-de-clima-muestra.netlify.app/)   
+  •	Repositorio:  [https://github.com/DromirM/Aplicacion-de-clima.git](https://github.com/DromirM/Aplicacion-de-clima.git)
 
-### 4. Juego de adivinanza - JavaScript  
-Página de muestra: [https://juego-de-adivinanzas-muestra.netlify.app/](https://juego-de-adivinanzas-muestra.netlify.app/)  
-Repositorio: [https://github.com/DromirM/web-de-adivinanzas.git](https://github.com/DromirM/web-de-adivinanzas.git)
+### 5. Calculadora - JavaScript  
+  •	Página de muestra: [https://calculadora-javascript-muestra.netlify.app/](https://calculadora-javascript-muestra.netlify.app/)  
+  •	Repositorio: [https://github.com/DromirM/Calculadora-JavaScript.git](https://github.com/DromirM/Calculadora-JavaScript.git)
 
-### 5. Pagina que despliega informacion acerca de lugares turisticos - JavaScript  
-Página de muestra: [https://ventas-viajes-muestra.netlify.app/](https://ventas-viajes-muestra.netlify.app/)  
-Repositorio: [https://github.com/DromirM/Ventas_viajes](https://github.com/DromirM/Ventas_viajes)
+### 6. Juego de adivinanza - JavaScript  
+  •	Página de muestra: [https://juego-de-adivinanzas-muestra.netlify.app/](https://juego-de-adivinanzas-muestra.netlify.app/)  
+  •	Repositorio: [https://github.com/DromirM/web-de-adivinanzas.git](https://github.com/DromirM/web-de-adivinanzas.git)
+
+### 7. Pagina que despliega informacion acerca de lugares turisticos - JavaScript  
+  •	Página de muestra: [https://ventas-viajes-muestra.netlify.app/](https://ventas-viajes-muestra.netlify.app/)  
+  •	Repositorio: [https://github.com/DromirM/Ventas_viajes](https://github.com/DromirM/Ventas_viajes)
 
 ## Licencia
 Este proyecto está bajo una Licencia Propietaria. Consulta el archivo [LICENSE](./LICENSE.md) para más detalles.
